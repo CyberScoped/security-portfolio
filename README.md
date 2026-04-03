@@ -1,5 +1,5 @@
-# **Cybersecurity Portfolio - 
-Sammar Ahmad**
+# **Cybersecurity Portfolio -** 
+# **Sammar Ahmad**
 Documenting my cybersecurity learning journey from scratch. This repository contains Forage virtual experience writeups, TryHackMe room notes, home lab projects, and study notes as I work toward CompTIA Security+ and a career in blue team security operations.
 
 **Contents**:
