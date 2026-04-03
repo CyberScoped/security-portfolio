@@ -12,4 +12,5 @@ Documenting my cybersecurity learning journey from scratch. This repository cont
 
 **Certifications in progress**: CompTIA Security+, ISC2 CC
 
-**Connect**: [linkedin.com/in/cyberscoped](www.linkedin.com/in/cyberscoped)
+**Connect**: [linkedin.com/in/cyberscoped](https://www.linkedin.com/in/cyberscoped)
+[linkedin.com/in/cyberscoped]: https://www.linkedin.com/in/cyberscoped
