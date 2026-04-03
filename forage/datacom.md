@@ -1,10 +1,5 @@
 **Forage - DATACOM**
 
-Properties:
-Tasks: https://docs.google.com/document/d/1jItCdMrPHSWPgtjIuu1HwNMfDvN86JtLbWIOPiWNWUQ/edit?usp=sharing
-Report: https://docs.google.com/document/d/1lWdYxWNYANC2Xn7fFzwRvaS00Kk2OwBwAZzguN_fwrI/edit?usp=sharing
-Risk Assessment: https://docs.google.com/document/d/1LxMMabSmgLifiHw2nkw8qJSSXG4xjQ_6RXkF4tPc6x0/edit?usp=sharing
-
 ---
 
 **Overview**
