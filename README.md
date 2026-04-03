@@ -9,5 +9,7 @@ Documenting my cybersecurity learning journey from scratch. This repository cont
 
 
 **Current focus**: Completing TryHackMe Pre-Security path and CompTIA Security+ study
+
 **Certifications in progress**: CompTIA Security+, ISC2 CC
+
 **Connect**: linkedin.com/in/cyberscoped/
