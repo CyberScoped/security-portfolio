@@ -1,0 +1,50 @@
+**Overview**
+
+Completed a two task cybersecurity simulation through Forage, working as a Graduate Cybersecurity Analyst. The first task involved investigating a ransomware attack on a healthcare provider, the second was a full risk assessment for a retail company. Both tasks required producing professional reports, something I hadn't done in a security context before.
+
+---
+
+**Task 1: Incident Response Report (Orion Health Services)**
+
+Orion Health had been hit by a ransomware attack. Starting from a phishing email sent to someone in finance, the attacker used a malicious Excel attachment to get in, then used a tool called Mimikatz to harvest credentials and move through the network until key systems were encrypted, including a partially compromised backup server.
+
+My job was to write a report for the executive team covering what happened, what vulnerabilities were exploited, what the business impact was legally, financially and reputationally, and what they should do about it.
+
+Biggest learning here was understanding how one phishing email can escalate all the way to a full ransomware deployment if the right controls aren't in place. Also learnt what EDR (Endpoint Detection and Response) is. I didn't include it in my original report because I didn't know what it was, which is exactly why I looked it up after.
+
+---
+
+**Task 2: Risk Assessment (RetailNova)**
+
+RetailNova is a retail company with 1,200 staff and $450M revenue operating across 85 stores. They've had three cybersecurity incidents in recent years, a phishing attack in 2023, a ransomware attempt in 2024, and a third party data leak in 2025.
+
+I used a 5x5 risk matrix to assess three risks, one for each incident. For each one I identified the assets at risk, the threat, the vulnerability that enabled it, existing controls, and then calculated both an inherent risk rating (before controls) and a residual risk rating (after controls).
+
+The third party vendor risk (NOVA-003) was interesting because there were no existing controls at all, which meant the inherent and residual ratings were the same. That's actually a significant finding because it tells the business they've done nothing to address a known, proven risk.
+
+Hardest part was understanding the difference between inherent and residual risk at first and knowing which mitigations to suggest without having used the tools in real life yet. I kept my recommendations to things I could actually explain rather than listing tools I'd just copied from somewhere.
+
+---
+
+**What I learnt**
+
+- Anatomy of a ransomware attack from phishing email to backup encryption
+- What Mimikatz is and how credential harvesting works
+- The difference between inherent and residual risk
+- How to use a 5x5 likelihood and consequence matrix
+- What EDR solutions are and why they matter for endpoint protection
+- How past incidents directly inform likelihood ratings in a risk assessment
+- Risk ID naming conventions and why they matter for tracking
+- How to write an executive level security report
+
+---
+
+**What I found challenging**
+
+Understanding business ramifications at first, I knew the technical side was bad but translating that into legal, financial and reputational consequences in a structured way was quite difficult. Also figuring out appropriate mitigations without just copying technical terms I couldn't explain. I made a conscious decision throughout to only write what I could actually defend if someone asked me about it.
+
+---
+
+**What I would do next**
+
+Research the mitigations I couldn't fully include, specifically EDR solutions and third party vendor assessment frameworks. Want future reports to be more technically specific rather than just directionally correct.
